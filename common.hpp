@@ -78,7 +78,7 @@ inline Solution get_solution(int day)
     switch(day)
     {
         GET_SOLUTION_CASE(1)
-        // GET_SOLUTION_CASE(2)
+        GET_SOLUTION_CASE(2)
         // GET_SOLUTION_CASE(3)
         // GET_SOLUTION_CASE(4)
         // GET_SOLUTION_CASE(5)

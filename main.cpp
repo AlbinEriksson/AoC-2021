@@ -101,8 +101,8 @@ int main(int argc, char *argv[])
     double free_time = total_free_ticks / (double)(perf_freq.QuadPart) / (double)(loops);
     #endif
 
-    printf("Parse time:        %10.6f seconds\n", parse_time);
-    printf("Part 1 solve time: %10.6f seconds\n", solve_part1_time);
-    printf("Part 2 solve time: %10.6f seconds\n", solve_part2_time);
-    printf("Free time:         %10.6f seconds\n", free_time);
+    printf("Parse time:        %10.9f seconds\n", parse_time);
+    printf("Part 1 solve time: %10.9f seconds\n", solve_part1_time);
+    printf("Part 2 solve time: %10.9f seconds\n", solve_part2_time);
+    printf("Free time:         %10.9f seconds\n", free_time);
 }
