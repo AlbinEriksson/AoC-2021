@@ -79,7 +79,7 @@ inline Solution get_solution(int day)
     {
         GET_SOLUTION_CASE(1)
         GET_SOLUTION_CASE(2)
-        // GET_SOLUTION_CASE(3)
+        GET_SOLUTION_CASE(3)
         // GET_SOLUTION_CASE(4)
         // GET_SOLUTION_CASE(5)
         // GET_SOLUTION_CASE(6)

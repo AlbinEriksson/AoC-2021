@@ -7,4 +7,5 @@ add_executable(aoc_2021
     main.cpp
     day1.cpp
     day2.cpp
+    day3.cpp
 )
